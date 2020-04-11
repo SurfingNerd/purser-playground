@@ -1,3 +1,7 @@
+# purser-playground
+
+this is just a playground for testing the typescript migration for the purser library.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # lab10-specific recommendations
